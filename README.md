@@ -383,6 +383,7 @@ Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR �
 - ⭐ 📘 💰 [**AI Engineering: Building Applications with Foundation Models**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen (O'Reilly, 2025). The reference textbook for the field.
 - 📘 💰 [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen (O'Reilly, 2022). The prior-generation canonical ML-systems text; still essential for data/infra context.
 - 📘 💰 [**Generative AI on AWS**](https://www.oreilly.com/library/view/generative-ai-on/9781098159214/) — Chris Fregly, Antje Barth, Shelbee Eigenbrode (O'Reilly, 2023).
+- 📘 💰 [**The Claw AI Agent Ecosystem: Designing, Operating, and Securing Self-Hosted AI Agents**](https://www.amazon.com/dp/B0GT7NBZV3) — Ava S. Barron (2026). Architecture, deployment, cost control, and security for self-hosted, always-on agents with persistent memory.
 
 ### T7 · Prompt Engineering
 
